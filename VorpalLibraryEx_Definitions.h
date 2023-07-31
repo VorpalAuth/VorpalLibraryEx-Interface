@@ -1,3 +1,10 @@
+/**
+* Copyright (C) 2023 Vorpal. All rights reserved.
+*
+* Licensed under the MIT License. You may obtain a copy
+* in the file "LICENSE" found at the root of this repository.
+*/
+
 #ifndef VORPALLIBRARYEX_DEFINITIONS_H_
 #define VORPALLIBRARYEX_DEFINITIONS_H_
 
