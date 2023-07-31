@@ -10,4 +10,4 @@ You should only use this if you want to interface with the Vorpal Extended Libra
 
 
 ## License
-TODO: Pick a license, all rights reserved for now.
+This repository is licensed under the MIT License, for more information click [here](https://github.com/VorpalAuth/VorpalLibraryEx-Interface/blob/main/LICENSE).
